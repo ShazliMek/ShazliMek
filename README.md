@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Western Spots (Personal Project for my University)**
 
-- 🌱 I’m currently learning **DevOps/Full-Stack Dev/ Data Scienc**
+- 🌱 I’m currently learning **DevOps/Full-Stack Dev/ Data Science**
 
 - 👯 I’m looking to collaborate on **Startups**
 
