@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Western Spots (Personal Project for my University)**
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **DevOps/Full-Stack Dev/ Data Scienc**
 
-- 👯 I’m looking to collaborate on **DevOps and Cloud Projects**
+- 👯 I’m looking to collaborate on **Startups**
 
-- 🤝 I’m looking for help with **HashiCorp Tools**
+- 🤝 I’m looking for help with **AI Powered Applications**
 
 - 👨‍💻 All of my projects are available at [https://shazlimek.github.io/ShazliMekrani.github.io/](https://shazlimek.github.io/ShazliMekrani.github.io/)
 
